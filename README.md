@@ -1,5 +1,5 @@
 # courseera-
- This folder comprises of all my work on web development assignments which i have during in durin my course in coursera
+ This folder comprises of all my work on web development assignments which i have during in during my course in coursera
 ## Module 2 
 https://mahendra-chittupolu.github.io/courseera-/assignments/module%202%20assignment/site/
 ## Module 3 
